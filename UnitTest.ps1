@@ -1,0 +1,1 @@
+.\convert_rules.ps1 -InputCsv query_data.csv -OutputJson rules1.json

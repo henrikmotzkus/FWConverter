@@ -1,0 +1,17 @@
+{
+    "name": "rulename",
+    "destination_addresses": [
+        "192.168.240.2",
+        "192.168.240.3"
+    ],
+    "destination_ports": [
+        "3389"
+    ],
+    "protocols": [
+        "TCP",
+        "UDP"
+    ],
+    "source_addresses": [
+        "10.127.64.4"
+    ]
+}

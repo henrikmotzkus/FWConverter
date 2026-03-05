@@ -1,0 +1,9797 @@
+[
+  {
+    "name": "RuleLearner-202603050001",
+    "destination_addresses": [
+      "10.125.165.39"
+    ],
+    "destination_ports": [
+      "5986"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050002",
+    "destination_addresses": [
+      "10.127.224.165"
+    ],
+    "destination_ports": [
+      "5986"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050003",
+    "destination_addresses": [
+      "10.125.165.37"
+    ],
+    "destination_ports": [
+      "5986"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050004",
+    "destination_addresses": [
+      "10.127.81.4"
+    ],
+    "destination_ports": [
+      "80"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.21.248"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050005",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.49"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050006",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.174.125"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050007",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.174.125"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050008",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.168.231"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050009",
+    "destination_addresses": [
+      "10.125.165.20"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.40.33"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050010",
+    "destination_addresses": [
+      "10.127.242.4"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.131.110"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050011",
+    "destination_addresses": [
+      "10.127.242.4"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.131.100"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050012",
+    "destination_addresses": [
+      "10.127.242.4"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.130.100"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050013",
+    "destination_addresses": [
+      "10.125.165.38"
+    ],
+    "destination_ports": [
+      "5986"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050014",
+    "destination_addresses": [
+      "10.127.242.4"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.130.110"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050015",
+    "destination_addresses": [
+      "10.125.165.39"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050016",
+    "destination_addresses": [
+      "10.125.165.37"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050017",
+    "destination_addresses": [
+      "10.125.165.38"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050018",
+    "destination_addresses": [
+      "10.127.224.165"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050019",
+    "destination_addresses": [
+      "10.127.224.165"
+    ],
+    "destination_ports": [
+      "139"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050020",
+    "destination_addresses": [
+      "10.125.165.39"
+    ],
+    "destination_ports": [
+      "25"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050021",
+    "destination_addresses": [
+      "10.125.165.37"
+    ],
+    "destination_ports": [
+      "25"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050022",
+    "destination_addresses": [
+      "10.125.165.39"
+    ],
+    "destination_ports": [
+      "22"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050023",
+    "destination_addresses": [
+      "10.125.165.39"
+    ],
+    "destination_ports": [
+      "21"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050024",
+    "destination_addresses": [
+      "10.127.224.165"
+    ],
+    "destination_ports": [
+      "5985"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050025",
+    "destination_addresses": [
+      "10.125.165.37"
+    ],
+    "destination_ports": [
+      "139"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050026",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.92.31"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050027",
+    "destination_addresses": [
+      "10.127.224.165"
+    ],
+    "destination_ports": [
+      "25"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050028",
+    "destination_addresses": [
+      "10.125.165.37"
+    ],
+    "destination_ports": [
+      "21"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050029",
+    "destination_addresses": [
+      "10.125.165.37"
+    ],
+    "destination_ports": [
+      "22"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050030",
+    "destination_addresses": [
+      "10.127.224.165"
+    ],
+    "destination_ports": [
+      "21"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050031",
+    "destination_addresses": [
+      "10.125.165.37"
+    ],
+    "destination_ports": [
+      "5985"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050032",
+    "destination_addresses": [
+      "10.125.165.39"
+    ],
+    "destination_ports": [
+      "139"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050033",
+    "destination_addresses": [
+      "10.125.165.37"
+    ],
+    "destination_ports": [
+      "23"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050034",
+    "destination_addresses": [
+      "10.127.224.165"
+    ],
+    "destination_ports": [
+      "23"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050035",
+    "destination_addresses": [
+      "10.125.165.39"
+    ],
+    "destination_ports": [
+      "23"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050036",
+    "destination_addresses": [
+      "10.125.165.38"
+    ],
+    "destination_ports": [
+      "139"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050037",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.190.127"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050038",
+    "destination_addresses": [
+      "10.125.165.38"
+    ],
+    "destination_ports": [
+      "5985"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050039",
+    "destination_addresses": [
+      "10.127.224.165"
+    ],
+    "destination_ports": [
+      "22"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050040",
+    "destination_addresses": [
+      "10.125.165.39"
+    ],
+    "destination_ports": [
+      "5985"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050041",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.90.34"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050042",
+    "destination_addresses": [
+      "10.125.165.39"
+    ],
+    "destination_ports": [
+      "49666"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050043",
+    "destination_addresses": [
+      "10.127.224.165"
+    ],
+    "destination_ports": [
+      "49668"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050044",
+    "destination_addresses": [
+      "10.125.165.24"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.85"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050045",
+    "destination_addresses": [
+      "10.125.165.37"
+    ],
+    "destination_ports": [
+      "49667"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050046",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.32.14"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050047",
+    "destination_addresses": [
+      "10.125.165.38"
+    ],
+    "destination_ports": [
+      "49671"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050048",
+    "destination_addresses": [
+      "10.125.165.20"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.40.20"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050049",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.114"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050050",
+    "destination_addresses": [
+      "10.127.224.135"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.128.133.192"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050051",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.160.210.242"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050052",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.160.52.63"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050053",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.38.203"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050054",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.70"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050055",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.80"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050056",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.70"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050057",
+    "destination_addresses": [
+      "10.125.165.20"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.40.18"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050058",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.92.34"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050059",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.82.31"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050060",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.162.2.122"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050061",
+    "destination_addresses": [
+      "10.125.165.24"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.244.128"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050062",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.162.152.200"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050063",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.40.170"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050064",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.41"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050065",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.206.53"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050066",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.38.203"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050067",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.126.98"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050068",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.58"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050069",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.90.31"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050070",
+    "destination_addresses": [
+      "10.127.81.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.162.2.86"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050071",
+    "destination_addresses": [
+      "10.125.165.24"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.40.130"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050072",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.78"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050073",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.36.109"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050074",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.190.127"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050075",
+    "destination_addresses": [
+      "10.125.165.20"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.40.69"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050076",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.216"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050077",
+    "destination_addresses": [
+      "10.125.165.20"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.42.142"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050078",
+    "destination_addresses": [
+      "10.125.165.20"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.244.15"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050079",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.194.99"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050080",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.160.88.134"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050081",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.52.73"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050082",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.128"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050083",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.82.32"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050084",
+    "destination_addresses": [
+      "10.125.165.20"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.40.130"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050085",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.78"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050086",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.214"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050087",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.92.95"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050088",
+    "destination_addresses": [
+      "10.125.165.20"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.244.128"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050089",
+    "destination_addresses": [
+      "10.125.165.38"
+    ],
+    "destination_ports": [
+      "22"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050090",
+    "destination_addresses": [
+      "10.125.165.37"
+    ],
+    "destination_ports": [
+      "137"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050091",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.163.8.75"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050092",
+    "destination_addresses": [
+      "10.125.165.38"
+    ],
+    "destination_ports": [
+      "137"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050093",
+    "destination_addresses": [
+      "10.127.224.165"
+    ],
+    "destination_ports": [
+      "137"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050094",
+    "destination_addresses": [
+      "10.125.165.39"
+    ],
+    "destination_ports": [
+      "137"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050095",
+    "destination_addresses": [
+      "10.127.224.20"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.128.133.192"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050096",
+    "destination_addresses": [
+      "10.125.165.38"
+    ],
+    "destination_ports": [
+      "23"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050097",
+    "destination_addresses": [
+      "10.125.165.38"
+    ],
+    "destination_ports": [
+      "25"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050098",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.169"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050099",
+    "destination_addresses": [
+      "10.125.165.38"
+    ],
+    "destination_ports": [
+      "21"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050100",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.169"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050101",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.41"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050102",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.194.115"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050103",
+    "destination_addresses": [
+      "10.127.224.165"
+    ],
+    "destination_ports": [
+      "49668"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.230"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050104",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.198"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050105",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.142.201"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050106",
+    "destination_addresses": [
+      "10.125.165.39"
+    ],
+    "destination_ports": [
+      "49666"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.230"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050107",
+    "destination_addresses": [
+      "10.125.73.100"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.128.133.192"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050108",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.163.8.75"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050109",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.11"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050110",
+    "destination_addresses": [
+      "10.125.165.20"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.16"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050111",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.160.58.49"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050112",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.28"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050113",
+    "destination_addresses": [
+      "10.125.165.24"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.40.69"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050114",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.73"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050115",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.114"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050116",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.20.253"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050117",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.121"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050118",
+    "destination_addresses": [
+      "10.125.165.20"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.40.191"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050119",
+    "destination_addresses": [
+      "10.125.165.37"
+    ],
+    "destination_ports": [
+      "49667"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.128.132.230"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050120",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.128"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050121",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.94"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050122",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.52.73"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050123",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.2.146"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050124",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.86.34"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050125",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.246.68"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050126",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.210.59"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050127",
+    "destination_addresses": [
+      "10.127.81.4"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.128.133.192"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050128",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.39"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050129",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.22.23"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050130",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "80"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.34.61"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050131",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.92.32"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050132",
+    "destination_addresses": [
+      "10.125.165.24"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.41.97"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050133",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.40.195"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050134",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.246.93"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050135",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.162"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050136",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.247.84"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050137",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.28"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050138",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.142.141"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050139",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.42.15"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050140",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.168.231"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050141",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.120"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050142",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "80"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.21.154"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050143",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.127"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050144",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.33.146"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050145",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.44"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050146",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.128.133.192"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050147",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.216.120"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050148",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.90.93"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050149",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.216.116"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050150",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.216.99"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050151",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.216"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050152",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.156.193"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050153",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.162.2.121"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050154",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.2.149"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050155",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.20.115"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050156",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.63"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050157",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.160.56.185"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050158",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.41.88"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050159",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.226"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050160",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.232"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050161",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.15"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050162",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.54.68"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050163",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.216.107"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050164",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.134.36"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050165",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.114"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050166",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.232"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050167",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.21.38"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050168",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.224"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050169",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.14.40"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050170",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.19"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050171",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.9.149"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050172",
+    "destination_addresses": [
+      "10.127.224.135"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.244.69"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050173",
+    "destination_addresses": [
+      "10.125.165.24"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.244.69"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050174",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.67"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050175",
+    "destination_addresses": [
+      "10.125.165.20"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.18"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050176",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.40.24"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050177",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.163.44.222"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050178",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.84.36"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050179",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.37"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050180",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.32.33"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050181",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.39.252"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050182",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.14.93"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050183",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.204.187"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050184",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.9.31"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050185",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.65"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050186",
+    "destination_addresses": [
+      "10.127.224.135"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.35.24"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050187",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.163.88.225"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050188",
+    "destination_addresses": [
+      "10.125.165.20"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.187"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050189",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.86.35"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050190",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.14.93"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050191",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.84.125"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050192",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.126.198"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050193",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.212"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050194",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.134.32"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050195",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.246"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050196",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.142.201"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050197",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.121"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050198",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.230.12"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050199",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.92.91"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050200",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.135"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050201",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.145"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050202",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.160.154.124"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050203",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.92"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050204",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.241"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050205",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.160.52.62"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050206",
+    "destination_addresses": [
+      "10.127.224.135"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.47"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050207",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.216.99"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050208",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.245"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050209",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.128.191"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050210",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.249"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050211",
+    "destination_addresses": [
+      "10.127.224.135"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.244.128"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050212",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.135"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050213",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.42.97"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050214",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.207"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050215",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.92.32"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050216",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.246.185"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050217",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.9.60"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050218",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.61"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050219",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.137"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050220",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.156"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050221",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.84"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050222",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.86.31"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050223",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.204.204"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050224",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.226"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050225",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.44"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050226",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.228.15"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050227",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.66"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050228",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.48"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050229",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.15.190"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050230",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.35.34"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050231",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.178"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050232",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.21.207"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050233",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.96.236"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050234",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.150.88"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050235",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.58.49"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050236",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.108"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050237",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.160.210.241"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050238",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.163"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050239",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.63"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050240",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.40.74"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050241",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.246.35"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050242",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.32.199"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050243",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.82.34"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050244",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.86.91"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050245",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.100"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050246",
+    "destination_addresses": [
+      "10.127.224.45"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "52.128.8.118"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050247",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.163.6.225"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050248",
+    "destination_addresses": [
+      "10.125.165.24"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.42.142"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050249",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.134.32"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050250",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.246.74"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050251",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.70.34"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050252",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.57"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050253",
+    "destination_addresses": [
+      "10.125.74.36"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.93"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050254",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.92.35"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050255",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.96"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050256",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.41.128"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050257",
+    "destination_addresses": [
+      "10.125.74.36"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.40.47"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050258",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.87"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050259",
+    "destination_addresses": [
+      "10.125.73.100"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.213"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050260",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.2.146"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050261",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.247"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050262",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.35.76"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050263",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.204.203"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050264",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.42.94"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050265",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.244.87"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050266",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.22.6"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050267",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.20.191"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050268",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.64"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050269",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.125"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050270",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.33.98"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050271",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.98"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050272",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.20.248"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050273",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.20.143"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050274",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.114"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050275",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.136"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050276",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.20.180"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050277",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.122"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050278",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.14.226"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050279",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.204.208"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050280",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.8.36"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050281",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.8.64"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050282",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.90.94"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050283",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.2"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050284",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.22.159"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050285",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.21.3"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050286",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.203"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050287",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.2.90"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050288",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.15.243"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050289",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.82.34"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050290",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.34.132"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050291",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.84.33"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050292",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.163.42.184"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050293",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.92.96"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050294",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.64.154"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050295",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.192.241"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050296",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.55"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050297",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.214"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050298",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.35.44"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050299",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.2.105"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050300",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.253"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050301",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.2.131"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050302",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.40.116"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050303",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.246.91"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050304",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.30"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050305",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.2.105"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050306",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.34.9"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050307",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.21.63"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050308",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.166"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050309",
+    "destination_addresses": [
+      "10.127.224.28"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.131"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050310",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.21.94"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050311",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.168"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050312",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.69"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050313",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.124"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050314",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.8.16"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050315",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.97"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050316",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.42.62"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050317",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.40.41"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050318",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.32.123"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050319",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.42.48"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050320",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.40.58"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050321",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.137"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050322",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.244.44"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050323",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.246.26"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050324",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.153"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050325",
+    "destination_addresses": [
+      "10.125.74.36"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.34"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050326",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.201"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050327",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.138"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050328",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.78.31"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050329",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.244.142"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050330",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.22.233"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050331",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.42.91"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050332",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.8.190"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050333",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.188.229"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050334",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.15.235"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050335",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.154.218"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050336",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.43"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050337",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.198"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050338",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.180.237"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050339",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.50"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050340",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.101"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050341",
+    "destination_addresses": [
+      "10.127.224.135"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.51"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050342",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.48"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050343",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.14"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050344",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.244.56"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050345",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.59"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050346",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.70"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050347",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.246.102"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050348",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.140.84"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050349",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.64"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050350",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.2.149"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050351",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.46.225"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050352",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.41.77"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050353",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.62"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050354",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.157"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050355",
+    "destination_addresses": [
+      "10.125.97.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.42.105"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050356",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.15.93"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050357",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.122.80"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050358",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.163.210.187"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050359",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.47"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050360",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.246.160"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050361",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.9"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050362",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.187"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050363",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.245"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050364",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.43"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050365",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.100.97"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050366",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.163.230.161"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050367",
+    "destination_addresses": [
+      "10.127.224.135"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.251"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050368",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.44"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050369",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.244"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050370",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.74"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050371",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.243"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050372",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "80"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.246.68"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050373",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.154"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050374",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.64"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050375",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.198"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050376",
+    "destination_addresses": [
+      "10.125.73.100"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.57"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050377",
+    "destination_addresses": [
+      "10.127.81.4"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.145"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050378",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.98"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050379",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.180.237"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050380",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.20.195"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050381",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.127"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050382",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.58"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050383",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.216.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050384",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.34.223"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050385",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.216.117"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050386",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.152"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050387",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.233"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050388",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.42.162"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050389",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.81"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050390",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.14.187"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050391",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.176.71"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050392",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.90.35"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050393",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.244.140"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050394",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.40.42"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050395",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.20.167"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050396",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.148"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050397",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.130.182"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050398",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.18.220"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050399",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.97"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050400",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.90.95"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050401",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.244.68"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050402",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.69"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050403",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "52.128.8.118"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050404",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.182"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050405",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.244.62"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050406",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.40.58"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050407",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.158"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050408",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.22.51"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050409",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.212"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050410",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.34.127"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050411",
+    "destination_addresses": [
+      "10.125.165.24"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.245.61"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050412",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.2.71"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050413",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.8.59"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050414",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.247.107"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050415",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.90.101"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050416",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.115"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050417",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.141"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050418",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.114"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050419",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.214.124"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050420",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.100"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050421",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.75"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050422",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.134.99"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050423",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.208.172"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050424",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.2.131"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050425",
+    "destination_addresses": [
+      "10.125.73.100"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.42.159"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050426",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.92.95"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050427",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.98.87"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050428",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.164"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050429",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.244.47"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050430",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.113"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050431",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.244.77"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050432",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.248"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050433",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.239"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050434",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.14.45"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050435",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.224"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050436",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.163.92.46"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050437",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.89"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050438",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.161"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050439",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.35.45"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050440",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.114"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050441",
+    "destination_addresses": [
+      "10.125.74.36"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.115"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050442",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.206"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050443",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.66"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050444",
+    "destination_addresses": [
+      "10.127.224.20"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.102"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050445",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.76.81"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050446",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.70.32"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050447",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.136"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050448",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.90.34"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050449",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.162"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050450",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.46"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050451",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.105"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050452",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.7"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050453",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.204.194"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050454",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.244.90"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050455",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.143"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050456",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.82.32"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050457",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.32.175"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050458",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.161"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050459",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.247.23"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050460",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.42.174"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050461",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.37"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050462",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.163"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050463",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.42.141"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050464",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.35.100"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050465",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.22.96"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050466",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.220"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050467",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.21.97"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050468",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.237"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050469",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.122.126"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050470",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.78.92"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050471",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.108"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050472",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.163.60.104"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050473",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.111"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050474",
+    "destination_addresses": [
+      "10.125.73.100"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.124"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050475",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.218"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050476",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.126"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050477",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.40.156"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050478",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.76"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050479",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.135"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050480",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.32.48"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050481",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.134.36"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050482",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.134.99"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050483",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.126.98"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050484",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.78.34"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050485",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.26"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050486",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.245.77"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050487",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.36"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050488",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.34.59"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050489",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.22.181"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050490",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.140"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050491",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.161"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050492",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.35.65"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050493",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.204.207"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050494",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.153"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050495",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.63"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050496",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.96"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050497",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.42.167"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050498",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.58.48"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050499",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.168"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050500",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.240.25"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050501",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.28"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050502",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.176.69"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050503",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.162.134"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050504",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.179"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050505",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.49"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050506",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.2.123"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050507",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.38.241"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050508",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.237"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050509",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.144.225"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050510",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.98"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050511",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.88.76"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050512",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.21.229"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050513",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.96.53"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050514",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.110"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050515",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.105"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050516",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.43.91"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050517",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.247.76"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050518",
+    "destination_addresses": [
+      "10.125.73.100"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.209"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050519",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.88.72"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050520",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.8.32"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050521",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.34.92"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050522",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.244.24"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050523",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.92.93"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050524",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.232"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050525",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.4.88"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050526",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.175"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050527",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.149"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050528",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.246.58"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050529",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.243"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050530",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.244.179"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050531",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.40.156"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050532",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.103"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050533",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.76.61"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050534",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.170"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050535",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.76.61"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050536",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.35.76"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050537",
+    "destination_addresses": [
+      "10.125.164.36"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.115"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050538",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.2.151"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050539",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.213"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050540",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.214"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050541",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.34"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050542",
+    "destination_addresses": [
+      "10.127.224.133"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.244.128"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050543",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.165"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050544",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "52.128.8.118"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050545",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.244"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050546",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.136"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050547",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.154"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050548",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.134.95"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050549",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.131"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050550",
+    "destination_addresses": [
+      "10.127.224.28"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.206"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050551",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.194.130"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050552",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.40.38"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050553",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.92.91"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050554",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.22.97"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050555",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.101"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050556",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.8.163"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050557",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.113"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050558",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.42.187"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050559",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.68.79"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050560",
+    "destination_addresses": [
+      "10.127.90.133"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.128.133.192"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050561",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.149"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050562",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.234"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050563",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.249"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050564",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.53"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050565",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.115"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050566",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.182"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050567",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.2.234"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050568",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.166"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050569",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.184"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050570",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.20.202"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050571",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.64.162"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050572",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.216.107"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050573",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.34.26"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050574",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.14.134"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050575",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.86.34"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050576",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.137"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050577",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.15.201"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050578",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.108"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050579",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.168.61"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050580",
+    "destination_addresses": [
+      "10.127.90.133"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.59"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050581",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.212"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050582",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.45"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050583",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.35.44"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050584",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.38.242"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050585",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.52.69"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050586",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.177"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050587",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.33"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050588",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.114"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050589",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.58.167"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050590",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.96"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050591",
+    "destination_addresses": [
+      "10.127.224.135"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.187"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050592",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.39.221"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050593",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.124"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050594",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.113"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050595",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.20.152"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050596",
+    "destination_addresses": [
+      "10.127.224.135"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.40.130"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050597",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.244.50"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050598",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.246.53"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050599",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.244.78"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050600",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.8"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050601",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.8.153"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050602",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.84.34"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050603",
+    "destination_addresses": [
+      "10.125.74.36"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.77"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050604",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.202"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050605",
+    "destination_addresses": [
+      "10.125.73.100"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.246.163"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050606",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.34.182"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050607",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.116"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050608",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.140.247.5"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050609",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.2.63"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050610",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.160.184.51"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050611",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.38.241"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050612",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.4"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050613",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.42.114"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050614",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.20.141"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050615",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.39.236"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050616",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.34.50"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050617",
+    "destination_addresses": [
+      "10.125.73.100"
+    ],
+    "destination_ports": [
+      "0"
+    ],
+    "protocols": [
+      "ICMP Type=8"
+    ],
+    "source_addresses": [
+      "10.250.15.213"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050618",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.93"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050619",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.8.120"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050620",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.168.224"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050621",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.21.191"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050622",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.8.66"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050623",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.50"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050624",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.244.82"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050625",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.86.251"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050626",
+    "destination_addresses": [
+      "10.125.73.100"
+    ],
+    "destination_ports": [
+      "3389"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.9.135"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050627",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.2.106"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050628",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.152.194"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050629",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.139.40.40"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050630",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.102.130"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050631",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.204.163"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050632",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.139.40.141"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050633",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.242.58"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050634",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.206"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050635",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.191"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050636",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.15.152"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050637",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.82.93"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050638",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.19"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050639",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.96.54"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050640",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.70.92"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050641",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.136"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050642",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.15.202"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050643",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.14.214"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050644",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.34.97"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050645",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.21.210"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050646",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.160.16.44"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050647",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.250.34.163"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050648",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.22.102"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050649",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.33.214"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050650",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.162.76.85"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050651",
+    "destination_addresses": [
+      "10.127.32.5"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.8.237"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050652",
+    "destination_addresses": [
+      "10.127.224.164"
+    ],
+    "destination_ports": [
+      "445"
+    ],
+    "protocols": [
+      "TCP"
+    ],
+    "source_addresses": [
+      "10.140.244.30"
+    ]
+  },
+  {
+    "name": "RuleLearner-202603050653",
+    "destination_addresses": [
+      "10.127.32.4"
+    ],
+    "destination_ports": [
+      "443"
+    ],
+    "protocols": [
+      "UDP"
+    ],
+    "source_addresses": [
+      "10.250.32.212"
+    ]
+  }
+]

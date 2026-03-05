@@ -1,0 +1,4 @@
+AZFWNetworkRule
+| where Rule == "in-hq-vpn-2-azure-private"
+| summarize count() by SourceIp, DestinationIp, Protocol, DestinationPort
+| order by count_
