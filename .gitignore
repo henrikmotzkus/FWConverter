@@ -1,0 +1,43 @@
+# PowerShell build and temp artifacts
+*.psd1
+*.psm1
+*.ps1xml
+*.pssc
+*.psc1
+*.psrc
+*.ps1~
+*.psm1~
+*.ps1.tmp
+*.psm1.tmp
+
+# Transcripts and logs
+*.log
+*.csv
+*.txt
+*.out
+*.err
+*.transcript
+
+# Packages, cache, and binary outputs
+bin/
+obj/
+packages/
+*.nupkg
+*.snk
+*.zip
+
+# User-specific
+*.user
+*.suo
+*.vspscc
+*.vssscc
+*.userprefs
+*.DS_Store
+Thumbs.db
+
+# JSON outputs
+*.json
+
+# VS Code
+.vscode/
+.history/

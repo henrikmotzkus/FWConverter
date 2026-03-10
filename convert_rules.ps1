@@ -18,11 +18,22 @@ $rules = @()
 $counter = 1
 
 foreach ($row in $rows) {
+    $protocol = $row.Protocol
+    $destinationPorts = @("$($row.DestinationPort)")
+
+    if ($protocol -like "*ICMP*") {
+        $protocols = @("ICMP")
+        $destinationPorts = @("*")
+    }
+    else {
+        $protocols = @($protocol)
+    }
+
     $rules += [ordered]@{
         name                  = "{0}{1:D4}" -f $rulePrefix, $counter
         destination_addresses = @($row.DestinationIp)
-        destination_ports     = @("$($row.DestinationPort)")
-        protocols             = @($row.Protocol)
+        destination_ports     = $destinationPorts
+        protocols             = $protocols
         source_addresses      = @($row.SourceIp)
     }
 
